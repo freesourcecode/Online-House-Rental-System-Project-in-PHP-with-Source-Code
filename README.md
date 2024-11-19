@@ -136,6 +136,6 @@ Open a browser and go to the URL "http://localhost/house_rental/".
 
 Final step, Login from the User’s login side. Just provide the Admin’s login details, and it will redirect you to Admin panel.
 
-### Full documentation for theOnline House Rental System Project in PHP is available at: ⬇️⬇️⬇️
+### Full documentation for the Online House Rental System Project in PHP is available at: ⬇️⬇️⬇️
 
 https://itsourcecode.com/free-projects/php-project/online-house-rental-system-project-in-php-with-source-code/
